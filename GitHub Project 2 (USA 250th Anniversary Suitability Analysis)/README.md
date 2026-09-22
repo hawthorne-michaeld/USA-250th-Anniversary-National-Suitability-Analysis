@@ -2,7 +2,7 @@
 
 
 
-![USA 250th Anniversary Suitability Analysis](images/title_image.png)
+![America 250 Title Image](images/america_250_title_image.png)
 
 **\*---------**
 
@@ -34,7 +34,7 @@ The ultimate results show a variability of counties that meet these criteria, bu
 
 
 
-![National Suitability Map](images/national_suitability_map.png)
+![National Suitability Map](images/national_suitability_map.jpg)
 
 \*---------
 
