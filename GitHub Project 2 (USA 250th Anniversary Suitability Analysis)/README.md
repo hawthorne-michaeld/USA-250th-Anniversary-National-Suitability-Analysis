@@ -10,7 +10,7 @@
 
 
 
-The results are presented as well as a full analysis, methods used, and output maps through ArcGIS StoryMap.
+The results, as well as a full analysis, methods used, and output maps are presented through ArcGIS StoryMaps.
 
 
 
