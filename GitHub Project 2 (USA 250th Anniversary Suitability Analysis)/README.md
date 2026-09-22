@@ -46,7 +46,7 @@ Additional documentation is available for perusal in the form of a project memor
 
 
 
-\[View Full Memorandum Here:](docs/america\_250\_memorandum.pdf)
+\[View Full Memorandum Here:](docs/america_250_memorandum.pdf)
 
 
 
