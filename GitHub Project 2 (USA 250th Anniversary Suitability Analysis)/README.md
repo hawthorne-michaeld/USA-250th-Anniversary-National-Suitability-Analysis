@@ -34,7 +34,7 @@ The ultimate results show a variability of counties that meet these criteria, bu
 
 
 
-!\[National Suitability Map](images/national\_suitability\_map.jpg)
+![National Suitability Map](images/national_suitability_map.png)
 
 \*---------
 
