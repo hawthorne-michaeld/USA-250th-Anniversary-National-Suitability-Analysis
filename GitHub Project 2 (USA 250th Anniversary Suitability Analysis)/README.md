@@ -2,7 +2,7 @@
 
 
 
-**!\[USA 250th Anniversary](images/america\_250\_title\_image.png)**
+**!\[USA 250th Anniversary Suitability Analysis](images/america\_250\_title\_image.png)**
 
 **\*---------**
 
