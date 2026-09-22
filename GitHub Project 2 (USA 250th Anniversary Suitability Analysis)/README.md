@@ -4,7 +4,7 @@
 
 ![America 250 Title Image](images/america_250_title_image.png)
 
-**\*---------**
+---------
 
 * **Interactive StoryMap**
 
@@ -16,7 +16,7 @@ The results are presented as well as a full analysis, methods used, and output m
 
 \[View Full StoryMap here:](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
 
-**\*---------**
+---------
 
 **Project Overview:**
 
@@ -28,7 +28,7 @@ This project is intended to evaluate the capability of which counties, across th
 
 The ultimate results show a variability of counties that meet these criteria, but a majority of the resulting areas tend to be concentrated close to large, metropolitan cities on the East and West coasts as well as a spattering of counties across the mid-west, Colorado, Central Texas, and Florida. While the results are varied, this information is not used as a predictive measure, but rather as a way to determine which areas have the capability of hosting a large, America250 celebration.
 
-\*---------
+---------
 
 * **Final Suitability Results:**
 
@@ -36,7 +36,7 @@ The ultimate results show a variability of counties that meet these criteria, bu
 
 ![National Suitability Map](images/national_suitability_map.jpg)
 
-\*---------
+---------
 
 * **Project Memorandum**
 
@@ -46,7 +46,7 @@ Additional documentation is available for perusal in the form of a project memor
 
 
 
-\[View Full Memorandum Here:](docs/america_250_memorandum.pdf)
+[View Full Memorandum Here](docs/america_250_memorandum.pdf)
 
 
 
