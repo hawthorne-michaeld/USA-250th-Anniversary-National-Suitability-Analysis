@@ -14,7 +14,7 @@ The results, as well as a full analysis, methods used, and output maps are prese
 
 
 
-[View Full StoryMap here:](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
+[View Full StoryMap here](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
 
 ---------
 
